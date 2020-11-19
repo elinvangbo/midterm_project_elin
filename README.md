@@ -7,6 +7,7 @@ This is my midterm project attending the Data Analytics coding bootcamp at [Iron
 
 #### -- Project Status: Completed
 
+
 ## Project Objective
 The purpose of this project is to understand the demographics and other characteristics of customers who accept or do not accept the offer of a credit card. The data set consists of information on 18,000 current bank customers. Machine learning and the classification models logistic regression and k-NN are used to create a predicts who will accept or decline the offer of a credit card.
 
