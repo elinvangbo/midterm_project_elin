@@ -1,4 +1,4 @@
-# midterm_project_elin
+# Midterm Project 
 *Elin Vängbo* 
 *19/11/2020* 
 
