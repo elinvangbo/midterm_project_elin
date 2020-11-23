@@ -49,6 +49,7 @@ This repository contains the following files:
     - creditcardmarketing.csv (original dataset)
 - Vizualisations: 
     - tableau_findings.twb
+    - workfile.xlsx
 - SQL Queries:
     - SQLqueries.sql
 - Presentation: 
