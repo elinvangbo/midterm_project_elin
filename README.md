@@ -51,3 +51,6 @@ This repository contains the following files:
     - tableau_findings.twb
 - SQL Queries:
     - SQLqueries.sql
+- Presentation: 
+    - presentation.mp4
+
